@@ -1,0 +1,8 @@
+/* Figma 스타일 */
+@import "./styles/index.css";
+
+/* Tailwind */
+@import "./styles/tailwind.css";
+
+/* 커스텀 덮어쓰기 */
+@import "./styles/theme.css";
